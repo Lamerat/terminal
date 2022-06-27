@@ -1,0 +1,21 @@
+{
+  "name": "@sea_flanker/terminal",
+  "version": "0.0.2",
+  "description": "Logging in console with colors",
+  "main": "index.js",
+  "typings": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lamerat/terminal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lamerat/terminal/issues"
+  },
+  "homepage": "https://github.com/Lamerat/terminal#readme"
+}
